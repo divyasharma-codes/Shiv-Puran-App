@@ -1,0 +1,47 @@
+{
+  "expo": {
+    "name": "Shiv Puran",
+    "slug": "Shiv-App",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0a0a23"
+    },
+    "androidStatusBar": {
+      "backgroundColor": "#0a0a23",
+      "barStyle": "light-content"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#0a0a23"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.anonymous.shivpuran"
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "single",
+      "favicon": "./assets/favicon.png"
+    },
+    "experiments": {
+      "typedRoutes": false
+    },
+    "extra": {
+      "eas": {
+        "projectId": "6d0d4d27-87de-4f0f-89ac-9d33328859cc"
+      }
+    },
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
