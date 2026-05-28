@@ -43,6 +43,7 @@ const styles =  StyleSheet.create({
   },
   header:{
     flexDirection:'row',
+    paddingBottom:20,
     justifyContent:'space-between',
     alignItems:'center',
   },
