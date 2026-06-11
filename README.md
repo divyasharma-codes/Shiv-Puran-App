@@ -18,7 +18,7 @@ A spiritual mobile app based on Shiv Puran built using React Native and Expo.
 > Note : Build 13 din tak available hai . Android me 'Install unknown apps' permission dena padega
 
 ## Web Live :
-    https://project-yvm2o-r61y8mo29-divyasharma-codes-projects.vercel.app
+https://project-yvm2o-r61y8mo29-divyasharma-codes-projects.vercel.app
 
 ## Developer
 Divya Sharma
